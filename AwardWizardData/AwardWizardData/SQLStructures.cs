@@ -215,9 +215,12 @@ namespace AwardWizardData
 					command += columnValue;
 				} catch (Exception) {
 					string columnValue = row.ItemArray [value].ToString ();
+					DateTime outDate;
 					if (columnValue.Equals ("NULL"))
 						command += "NULL";
-					else {
+					else if (DateTime.TryParse (columnValue, out outDate)) {
+						command += "STR_TO_DATE('" + columnValue + "', '%m/%d/%Y')";
+					} else {
 						if (columnValue.Contains ("\'"))
 							columnValue = columnValue.Replace ("'", "''");
 						command += "'" + columnValue + "'";
