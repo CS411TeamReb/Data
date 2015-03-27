@@ -53,7 +53,7 @@ namespace AwardWizardData
 						"Performances",
 						"Running"
 					},
-					CreateTableCommand = "CREATE TABLE Stage( WorkID VARCHAR(50) PRIMARY KEY, Setting VARCHAR(100) NULL, Title VARCHAR(2000) NULL, Iteration INT NULL, Type VARCHAR(100) NULL, Genre VARCHAR(100) NULL, SongNumber INT NULL, YEAR INT NULL, Theatre VARCHAR(300) NULL, Open DATETIME NULL, Closed DATETIME NULL, Previews INT NULL, Performances INT NULL, Running BIT NOT NULL);"
+					CreateTableCommand = "CREATE TABLE Stage( WorkID VARCHAR(50) PRIMARY KEY, Setting VARCHAR(100) NULL, Title VARCHAR(2000) NULL, Iteration INT NULL, Type VARCHAR(100) NULL, Genre VARCHAR(100) NULL, SongNumber INT NULL, YEAR INT NULL, Theatre VARCHAR(300) NULL, Open DATETIME NULL, Closed DATETIME NULL, Previews INT NULL, Performances INT NULL, Running VARCHAR(3) NOT NULL);"
 				}
 			}, {
 				"Music",
@@ -68,7 +68,7 @@ namespace AwardWizardData
 						"Genre",
 						"ReleaseYear"
 					},
-					CreateTableCommand = "CREATE TABLE Music( WorkID VARCHAR(50), Title VARCHAR(2000) NULL, Artist VARCHAR(100), isSingle BIT NOT NULL, EligibilityYear INT NULL, Genre VARCHAR(100) NULL, ReleaseYear INT NULL);"
+					CreateTableCommand = "CREATE TABLE Music( WorkID VARCHAR(50), Title VARCHAR(2000) NULL, Artist VARCHAR(100), isSingle VARCHAR(3) NOT NULL, EligibilityYear INT NULL, Genre VARCHAR(100) NULL, ReleaseYear INT NULL);"
 				}
 			}, {
 				"People",
@@ -113,7 +113,7 @@ namespace AwardWizardData
 						"MinimumRuntime",
 						"MaximumRuntime"
 					},
-					CreateTableCommand = "CREATE TABLE Television(WorkID VARCHAR(200) PRIMARY KEY, Title VARCHAR(400) NULL, Episodes INT NULL, Seasons INT NULL, StillRunning BIT, Network VARCHAR(100) NULL, CameraSetup VARCHAR(200) NULL, MinimumRuntime INT NULL, MaximumRuntime INT NULL);"
+					CreateTableCommand = "CREATE TABLE Television(WorkID VARCHAR(200) PRIMARY KEY, Title VARCHAR(400) NULL, Episodes INT NULL, Seasons INT NULL, StillRunning VARCHAR(3), Network VARCHAR(100) NULL, CameraSetup VARCHAR(200) NULL, MinimumRuntime INT NULL, MaximumRuntime INT NULL);"
 				}
 			}, {
 				"Movies",
