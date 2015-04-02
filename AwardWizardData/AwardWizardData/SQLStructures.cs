@@ -75,13 +75,14 @@ namespace AwardWizardData
 				new SQLTable () {
 					Name = "People",
 					ColumnNames = new string[] {
+						"WorkID",
 						"Name",
 						"PlaceOrigin",
 						"Occupation",
 						"Gender",
 						"Birthdate"
 					},
-					CreateTableCommand = "CREATE TABLE People(Name VARCHAR(200) PRIMARY KEY, PlaceOrigin VARCHAR(100) NULL, Occupation VARCHAR(100) NULL, Gender VARCHAR(50) NULL, Birthdate DATETIME NULL);"
+					CreateTableCommand = "CREATE TABLE People(WorkID VARCHAR(50) PRIMARY KEY, Name VARCHAR(200), PlaceOrigin VARCHAR(100) NULL, Occupation VARCHAR(100) NULL, Gender VARCHAR(50) NULL, Birthdate DATETIME NULL);"
 				}
 			}, {
 				"Honor",
