@@ -14,9 +14,8 @@ namespace AwardWizardData
 		{
 			Console.WriteLine ("Starting SQL Conversion");
 
-			SQLStructures sql = new SQLStructures (@"/Users/emilychao/Documents/CS/CS411/Data/AwardWizardData/Data Collection - Works.tsv", "Works");
+			SQLStructures sql = new SQLStructures (@"/Users/emilychao/Documents/CS/CS411/Data/AwardWizardData/Data Collection - Honor.tsv", "Honor");
 
-			//Inserting AwardShow Data
 			DisplayCommands (sql);
 		}
 
