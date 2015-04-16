@@ -131,24 +131,17 @@ namespace AwardWizardData
 					CreateTableCommand = "CREATE TABLE Movies(WorkID VARCHAR(200) PRIMARY KEY, Title VARCHAR(500) NULL, Rating VARCHAR(10) NULL, BoxOffice REAL NULL, Budget REAL NULL, Year INT NULL);"
 				}
 			}, {
-				"FilmedIn",
+				"Locations",
 				new SQLTable () {
-					Name = "FilmedIn",
+					Name = "Locations",
 					ColumnNames = new string[] {
 						"WorkID",
-						"Location"
+						"Location",
+						"FilmedOrFiction",
+						"Latitude",
+						"Longitude"
 					},
-					CreateTableCommand = "CREATE TABLE FilmedIn(WorkID VARCHAR(200), Location VARCHAR(200));"
-				}
-			}, {
-				"FictionalLocation",
-				new SQLTable () {
-					Name = "FictionalLocation",
-					ColumnNames = new string[] {
-						"WorkID",
-						"Location"
-					},
-					CreateTableCommand = "CREATE TABLE FictionalLocation(WorkID VARCHAR(200), Location VARCHAR(200));"
+					CreateTableCommand = "CREATE TABLE Locations(WorkID VARCHAR(200), Location VARCHAR(500), FilmedOrFiction VARCHAR(50), Latitude REAL NULL, Longitude REAL NULL);"
 				}
 			}, {
 				"GenreOf",
@@ -227,7 +220,7 @@ namespace AwardWizardData
 				} catch (Exception) {
 					string columnValue = row.ItemArray [value].ToString ();
 					DateTime outDate;
-					if (columnValue.Equals ("NULL"))
+					if (columnValue.Equals ("NULL") || columnValue.Length == 0)
 						command += "NULL";
 					else if (DateTime.TryParse (columnValue, out outDate)) {
 						command += "STR_TO_DATE('" + columnValue + "', '%m/%d/%Y')";
