@@ -163,6 +163,17 @@ namespace AwardWizardData
 					},
 					CreateTableCommand = "CREATE TABLE Works(WorkID VARCHAR(200), TitleName VARCHAR(500));"
 				}
+			}, {
+				"Pictures",
+				new SQLTable () {
+					Name = "Pictures",
+					ColumnNames = new string[] {
+						"WorkID",
+						"URL",
+						"Source"
+					},
+					CreateTableCommand = "CREATE TABLE Pictures(WorkID VARCHAR(200), URL VARCHAR(2000), Source VARCHAR(200) NULL)"
+				}
 			}
 		};
 
