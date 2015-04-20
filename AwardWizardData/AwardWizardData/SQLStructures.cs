@@ -75,14 +75,13 @@ namespace AwardWizardData
 				new SQLTable () {
 					Name = "People",
 					ColumnNames = new string[] {
-						"WorkID",
 						"Name",
 						"PlaceOrigin",
 						"Occupation",
 						"Gender",
 						"Birthdate"
 					},
-					CreateTableCommand = "CREATE TABLE People(WorkID VARCHAR(50) PRIMARY KEY, Name VARCHAR(200), PlaceOrigin VARCHAR(100) NULL, Occupation VARCHAR(100) NULL, Gender VARCHAR(50) NULL, Birthdate DATETIME NULL);"
+					CreateTableCommand = "CREATE TABLE People(Name VARCHAR(200), PlaceOrigin VARCHAR(100) NULL, Occupation VARCHAR(100) NULL, Gender VARCHAR(50) NULL, Birthdate DATETIME NULL);"
 				}
 			}, {
 				"Honor",
@@ -172,7 +171,20 @@ namespace AwardWizardData
 						"URL",
 						"Source"
 					},
-					CreateTableCommand = "CREATE TABLE Pictures(WorkID VARCHAR(200), URL VARCHAR(2000), Source VARCHAR(200) NULL)"
+					CreateTableCommand = "CREATE TABLE Pictures(WorkID VARCHAR(200), URL VARCHAR(2000), Source VARCHAR(200) NULL);"
+				}
+			}, {
+				"Countries",
+				new SQLTable () {
+					Name = "Countries",
+					ColumnNames = new string[] {
+						"Country",
+						"MinLat",
+						"MaxLat",
+						"MinLong",
+						"MaxLong"
+					},
+					CreateTableCommand = "CREATE TABLE Countries(Country VARCHAR(200), MinLat REAL, MaxLat REAL, MinLong REAL, MaxLong REAL);"
 				}
 			}
 		};
