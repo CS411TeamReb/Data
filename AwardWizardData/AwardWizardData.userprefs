@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AwardWizardData/SQLStructures.cs">
     <Files>
-      <File FileName="AwardWizardData/SQLStructures.cs" Line="208" Column="40" />
-      <File FileName="AwardWizardData/Program.cs" Line="17" Column="146" />
+      <File FileName="AwardWizardData/SQLStructures.cs" Line="84" Column="48" />
+      <File FileName="AwardWizardData/Program.cs" Line="17" Column="136" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

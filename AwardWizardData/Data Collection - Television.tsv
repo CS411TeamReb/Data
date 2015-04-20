@@ -1,0 +1,58 @@
+WorkID	Title	Episodes	Seasons	StillRunning?	Network	Camera Setup	Minimum Runtime	Maximum Runtime
+T1	Modern Family	137	6	Yes	ABC	Single-camera	21	22
+T2	The Big Bang Theory	177	8	Yes	CBS	Multi-camera	18	24
+T3	Louie	53	4	Yes	FX	Single-camera	23	23
+T4	Orange is the New Black	26	2	Yes	Netflix	Single-camera	51	92
+T5	Silicon Valley	8	1	Yes	HBO	Single-camera	30	30
+T6	Veep	38	3	Yes	HBO	Single-camera	26	30
+T7	Breaking Bad	62	5	No	AMC	Multi-camera	43	58
+T8	Downton Abbey	43	5	Yes	PBS	Single-camera	47	92
+T9	Game of Thrones	40	4	Yes	HBO	Single-camera	50	65
+T10	House of Cards	39	3	Yes	Netflix	Single-camera	46	59
+T11	Mad Men	85	7	Yes	AMC	NULL	47	47
+T12	True Detective	8	1	Yes	HBO	Single-camera	54	60
+T13	The Colbert Report	1447	10	No	Comedy Central	NULL	22	22
+T14	The Daily Show with Jon Stewart	2606	20	Yes	Comedy Central	NULL	22	22
+T15	Jimmy Kimmel Live!	2224	12	Yes	ABC	NULL	60	60
+T16	Real Time with Bill Maher	345	12	Yes	HBO	NULL	60	60
+T17	Saturday Night Live	781	40	Yes	NBC	NULL	93	93
+T18	The Tonight Show Starring Jimmy Fallon	224	2	Yes	NBC	NULL	62	63
+T19	Fargo	10	1	Yes	FX	Single-camera	48	68
+T20	American Horror Story: Coven	13	1	No	FX	NULL	60	60
+T21	Bonnie & Clyde	2	1	No	A&E	NULL	120	120
+T22	Luther	14	3	No	BBC	NULL	57	57
+T23	Treme	36	4	No	HBO	Single-camera	60	60
+T24	The White Queen	10	1	No	BBC	NULL	60	60
+T25	The Normal Heart	1	1	No	HBO	NULL	133	133
+T26	Killing Kennedy	1	1	No	National Geographic	NULL	92	92
+T27	Muhammad Ali's Greatest Fight	1	1	No	HBO	NULL	97	97
+T28	Sherlock: "His Last Vow"	1	1	No	BBC	Single-camera	89	89
+T29	The Trip to Bountiful	1	1	No	Lifetime	NULL	NULL	NULL
+T30	The Amazing Race	297	26	Yes	CBS	Multi-camera	43	43
+T31	Dancing with the Stars	345	19	Yes	ABC	Multi-camera	40	80
+T32	Project Runway	182	13	Yes	Lifetime	Multi-camera	40	64
+T33	So You Think You Can Dance	207	11	Yes	FOX	NULL	60	60
+T34	Top Chef	141	12	Yes	Bravo	NULL	42	42
+T35	The Voice	180	8	Yes	NBC	Multi-camera	44	104
+T36	House of Lies	37	4	Yes	Showtime	NULL	30	30
+T37	Derek	14	2	No	Netflix	NULL	24	24
+T38	Episodes	32	4	Yes	Showtime	Single-camera	30	30
+T39	Shameless	56	5	Yes	Showtime	NULL	45	55
+T40	Girls	40	4	Yes	HBO	Single-camera	30	30
+T41	Nurse Jackie	68	6	Yes	Showtime	Single-camera	27	27
+T42	Mike & Molly	105	5	Yes	CBS	Multi-camera	18	22
+T43	Parks and Recreation	125	7	No	NBC	Single-camera	30	30
+T44	The Newsroom	25	3	No	HBO	NULL	52	73
+T45	The Good Wife	126	6	Yes	CBS	NULL	43	43
+T47	Masters of Sex	24	2	Yes	Showtime	NULL	55	60
+T48	Homeland	48	4	Yes	Showtime	Single-camera	46	65
+T49	Scandal	62	4	Yes	ABC	Single-camera	43	43
+T50	Dancing on the Edge	5	1	No	BBC	NULL	NULL	NULL
+T51	Burton & Taylor	1	1	No	BBC	NULL	82	82
+T52	Return to Zero	1	1	No	Lifetime	NULL	107	107
+T53	The Spoils of Babylon	6	1	No	IFC	NULL	23	23
+T54	Portlandia	47	5	Yes	IFC	Single-camera	22	22
+T55	Brooklyn Nine-Nine	39	2	Yes	FOX	Single-camera	22	22
+T56	Mom	39	2	Yes	CBS	Multi-camera	22	22
+T57	Ray Donovan	24	2	Yes	Showtime	NULL	45	60
+T58	Flowers in the Attic	1	1	No	Lifetime	NULL	86	86

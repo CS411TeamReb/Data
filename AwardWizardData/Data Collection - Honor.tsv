@@ -1,0 +1,412 @@
+AwardID	AwardName	YearGiven	Result	ShowName	WorkID	PersonName
+E1	Outstanding Comedy Series	2014	Won	Emmys	T1	NULL
+E2	Outstanding Comedy Series	2014	Nominated	Emmys	T2	NULL
+E3	Outstanding Comedy Series	2014	Nominated	Emmys	T3	NULL
+E4	Outstanding Comedy Series	2014	Nominated	Emmys	T4	NULL
+E5	Outstanding Comedy Series	2014	Nominated	Emmys	T5	NULL
+E6	Outstanding Comedy Series	2014	Nominated	Emmys	T6	NULL
+E7	Outstanding Drama Series	2014	Won	Emmys	T7	NULL
+E8	Outstanding Drama Series	2014	Nominated	Emmys	T8	NULL
+E9	Outstanding Drama Series	2014	Nominated	Emmys	T9	NULL
+E10	Outstanding Drama Series	2014	Nominated	Emmys	T10	NULL
+E11	Outstanding Drama Series	2014	Nominated	Emmys	T11	NULL
+E12	Outstanding Drama Series	2014	Nominated	Emmys	T12	NULL
+E13	Outstanding Variety Series	2014	Won	Emmys	T13	NULL
+E14	Outstanding Variety Series	2014	Nominated	Emmys	T14	NULL
+E15	Outstanding Variety Series	2014	Nominated	Emmys	T15	NULL
+E16	Outstanding Variety Series	2014	Nominated	Emmys	T16	NULL
+E17	Outstanding Variety Series	2014	Nominated	Emmys	T17	NULL
+E18	Outstanding Variety Series	2014	Nominated	Emmys	T18	NULL
+E19	Outstanding Miniseries	2014	Won	Emmys	T19	NULL
+E20	Outstanding Miniseries	2014	Nominated	Emmys	T20	NULL
+E21	Outstanding Miniseries	2014	Nominated	Emmys	T21	NULL
+E22	Outstanding Miniseries	2014	Nominated	Emmys	T22	NULL
+E23	Outstanding Miniseries	2014	Nominated	Emmys	T23	NULL
+E24	Outstanding Miniseries	2014	Nominated	Emmys	T24	NULL
+E25	Outstanding Television Movie	2014	Won	Emmys	T25	NULL
+E26	Outstanding Television Movie	2014	Nominated	Emmys	T26	NULL
+E27	Outstanding Television Movie	2014	Nominated	Emmys	T27	NULL
+E28	Outstanding Television Movie	2014	Nominated	Emmys	T28	NULL
+E29	Outstanding Television Movie	2014	Nominated	Emmys	T29	NULL
+E30	Outstanding Reality - Competition Program	2014	Won	Emmys	T30	NULL
+E31	Outstanding Reality - Competition Program	2014	Nominated	Emmys	T31	NULL
+E32	Outstanding Reality - Competition Program	2014	Nominated	Emmys	T32	NULL
+E33	Outstanding Reality - Competition Program	2014	Nominated	Emmys	T33	NULL
+E34	Outstanding Reality - Competition Program	2014	Nominated	Emmys	T34	NULL
+E35	Outstanding Reality - Competition Program	2014	Nominated	Emmys	T35	NULL
+E36	Outstanding Lead Actor in a Comedy Series	2014	Won	Emmys	T2	Jim Parsons
+E37	Outstanding Lead Actor in a Comedy Series	2014	Nominated	Emmys	T3	Louis C.K.
+E38	Outstanding Lead Actor in a Comedy Series	2014	Nominated	Emmys	T36	Don Cheadle
+E39	Outstanding Lead Actor in a Comedy Series	2014	Nominated	Emmys	T37	Ricky Gervais
+E40	Outstanding Lead Actor in a Comedy Series	2014	Nominated	Emmys	T38	Matt LeBlanc
+E41	Outstanding Lead Actor in a Comedy Series	2014	Nominated	Emmys	T39	William H. Macy
+E42	Outstanding Lead Actress in a Comedy Series	2014	Won	Emmys	T6	Julia Louis-Dreyfus
+E43	Outstanding Lead Actress in a Comedy Series	2014	Nominated	Emmys	T40	Lena Dunham
+E44	Outstanding Lead Actress in a Comedy Series	2014	Nominated	Emmys	T41	Edie Falco
+E45	Outstanding Lead Actress in a Comedy Series	2014	Nominated	Emmys	T42	Melissa McCarthy
+E46	Outstanding Lead Actress in a Comedy Series	2014	Nominated	Emmys	T43	Amy Poehler
+E47	Outstanding Lead Actress in a Comedy Series	2014	Nominated	Emmys	T4	Taylor Schilling
+E48	Outstanding Lead Actor in a Drama Series	2014	Won	Emmys	T7	Bryan Cranston
+E49	Outstanding Lead Actor in a Drama Series	2014	Nominated	Emmys	T44	Jeff Daniels
+E50	Outstanding Lead Actor in a Drama Series	2014	Nominated	Emmys	T11	Jon Ham
+E51	Outstanding Lead Actor in a Drama Series	2014	Nominated	Emmys	T12	Woody Harrelson
+E52	Outstanding Lead Actor in a Drama Series	2014	Nominated	Emmys	T12	Matthew McConaughey
+E53	Outstanding Lead Actor in a Drama Series	2014	Nominated	Emmys	T10	Kevin Spacey
+E54	Outstanding Lead Actress in a Drama Series	2014	Won	Emmys	T45	Julianna Margulies
+E55	Outstanding Lead Actress in a Drama Series	2014	Nominated	Emmys	T47	Lizzy Caplan
+E56	Outstanding Lead Actress in a Drama Series	2014	Nominated	Emmys	T8	Michelle Dockery
+E57	Outstanding Lead Actress in a Drama Series	2014	Nominated	Emmys	T49	Kerry Washington
+E58	Outstanding Lead Actress in a Drama Series	2014	Nominated	Emmys	T10	Robin Wright
+E59	Outstanding Lead Actress in a Drama Series	2014	Nominated	Emmys	T48	Claire Danes
+E60	Outstanding Lead Actor in a Miniseries or Movie	2014	Won	Emmys	T28	Benedict Cumberbatch
+E61	Outstanding Lead Actor in a Miniseries or Movie	2014	Nominated	Emmys	T50	Chiwetel Ejiofor
+E62	Outstanding Lead Actor in a Miniseries or Movie	2014	Nominated	Emmys	T22	Idris Elba
+E63	Outstanding Lead Actor in a Miniseries or Movie	2014	Nominated	Emmys	T19	Martin Freeman
+E64	Outstanding Lead Actor in a Miniseries or Movie	2014	Nominated	Emmys	T25	Mark Ruffalo
+E65	Outstanding Lead Actor in a Miniseries or Movie	2014	Nominated	Emmys	T19	Billy Bob Thornton
+E66	Outstanding Lead Actress in a Miniseries or Movie	2014	Won	Emmys	T20	Jessica Lange
+E67	Outstanding Lead Actress in a Miniseries or Movie	2014	Nominated	Emmys	T51	Helena Bonham Carter
+E68	Outstanding Lead Actress in a Miniseries or Movie	2014	Nominated	Emmys	T52	Minnie Driver
+E69	Outstanding Lead Actress in a Miniseries or Movie	2014	Nominated	Emmys	T20	Sarah Paulson
+E70	Outstanding Lead Actress in a Miniseries or Movie	2014	Nominated	Emmys	T29	Cecily Tyson
+E71	Outstanding Lead Actress in a Miniseries or Movie	2014	Nominated	Emmys	T53	Kristen Wiig
+E72	Outstanding Supporting Actor in a Comedy Series	2014	Won	Emmys	T1	Ty Burrell
+E73	Outstanding Supporting Actor in a Comedy Series	2014	Nominated	Emmys	T54	Fred Armisen
+E74	Outstanding Supporting Actor in a Comedy Series	2014	Nominated	Emmys	T55	Andre Braugher
+E75	Outstanding Supporting Actor in a Comedy Series	2014	Nominated	Emmys	T40	Adam Driver
+E76	Outstanding Supporting Actor in a Comedy Series	2014	Nominated	Emmys	T1	Jesse Tyler Ferguson
+E77	Outstanding Supporting Actor in a Comedy Series	2014	Nominated	Emmys	T6	Tony Hale
+E78	Outstanding Supporting Actress in a Comedy Series	2014	Won	Emmys	T56	Allison Janney
+E79	Outstanding Supporting Actress in a Comedy Series	2014	Nominated	Emmys	T2	Mayim Bialik
+E80	Outstanding Supporting Actress in a Comedy Series	2014	Nominated	Emmys	T1	Julie Bowen
+E81	Outstanding Supporting Actress in a Comedy Series	2014	Nominated	Emmys	T6	Anna Chlumsky
+E82	Outstanding Supporting Actress in a Comedy Series	2014	Nominated	Emmys	T17	Kate McKinnon
+E83	Outstanding Supporting Actress in a Comedy Series	2014	Nominated	Emmys	T4	Kate Mulgrew
+E84	Outstanding Supporting Actor in a Drama Series	2014	Won	Emmys	T7	Aaron Paul
+E85	Outstanding Supporting Actor in a Drama Series	2014	Nominated	Emmys	T8	Jim Carter
+E86	Outstanding Supporting Actor in a Drama Series	2014	Nominated	Emmys	T45	Josh Charles
+E87	Outstanding Supporting Actor in a Drama Series	2014	Nominated	Emmys	T9	Peter Dinklage
+E88	Outstanding Supporting Actor in a Drama Series	2014	Nominated	Emmys	T48	Mandy Patinkin
+E89	Outstanding Supporting Actor in a Drama Series	2014	Nominated	Emmys	T57	Jon Voight
+E90	Outstanding Supporting Actress in a Drama Series	2014	Won	Emmys	T7	Anna Gunn
+E91	Outstanding Supporting Actress in a Drama Series	2014	Nominated	Emmys	T45	Christine Baranski
+E92	Outstanding Supporting Actress in a Drama Series	2014	Nominated	Emmys	T8	Joanne Froggatt
+E93	Outstanding Supporting Actress in a Drama Series	2014	Nominated	Emmys	T9	Lena Headey
+E94	Outstanding Supporting Actress in a Drama Series	2014	Nominated	Emmys	T11	Christina Hendricks
+E95	Outstanding Supporting Actress in a Drama Series	2014	Nominated	Emmys	T8	Maggie Smith
+E96	Outstanding Supporting Actor in a Miniseries or Movie	2014	Won	Emmys	T28	Martin Freeman
+E97	Outstanding Supporting Actor in a Miniseries or Movie	2014	Nominated	Emmys	T25	Matt Bomer
+E98	Outstanding Supporting Actor in a Miniseries or Movie	2014	Nominated	Emmys	T28	Colin Hanks
+E99	Outstanding Supporting Actor in a Miniseries or Movie	2014	Nominated	Emmys	T25	Joe Mantello
+E100	Outstanding Supporting Actor in a Miniseries or Movie	2014	Nominated	Emmys	T25	Alfred Molina
+E101	Outstanding Supporting Actor in a Miniseries or Movie	2014	Nominated	Emmys	T25	Jim Parsons
+E102	Outstanding Supporting Actress in a Miniseries or Movie	2014	Won	Emmys	T20	Kathy Bates
+E103	Outstanding Supporting Actress in a Miniseries or Movie	2014	Nominated	Emmys	T20	Angela Bassett
+E104	Outstanding Supporting Actress in a Miniseries or Movie	2014	Nominated	Emmys	T58	Ellen Burstyn
+E105	Outstanding Supporting Actress in a Miniseries or Movie	2014	Nominated	Emmys	T20	Frances Conroy
+E106	Outstanding Supporting Actress in a Miniseries or Movie	2014	Nominated	Emmys	T25	Julia Roberts
+E107	Outstanding Supporting Actress in a Miniseries or Movie	2014	Nominated	Emmys	T28	Allison Tolman
+N1	Best Play	2014	Won	Tonys	S2	NULL
+N2	Best Play	2014	Nominated	Tonys	S1	NULL
+N3	Best Play	2014	Nominated	Tonys	S3	NULL
+N4	Best Play	2014	Nominated	Tonys	S4	NULL
+N5	Best Play	2014	Nominated	Tonys	S5	NULL
+N6	Best Musical	2014	Won	Tonys	S6	NULL
+N7	Best Musical	2014	Nominated	Tonys	S7	NULL
+N8	Best Musical	2014	Nominated	Tonys	S8	NULL
+N9	Best Musical	2014	Nominated	Tonys	S9	NULL
+N10	Best Revival of a Play	2014	Won	Tonys	S10	NULL
+N11	Best Revival of a Play	2014	Nominated	Tonys	S11	NULL
+N12	Best Revival of a Play	2014	Nominated	Tonys	S12	NULL
+N13	Best Revival of a Play	2014	Nominated	Tonys	S13	NULL
+N14	Best Revival of a Musical	2014	Won	Tonys	S14	NULL
+N15	Best Revival of a Musical	2014	Nominated	Tonys	S15	NULL
+N16	Best Revival of a Musical	2014	Nominated	Tonys	S16	NULL
+N17	Best Performance by a Leading Actor in a Play	2014	Won	Tonys	S2	Bryan Cranston
+N18	Best Performance by a Leading Actor in a Play	2014	Nominated	Tonys	S13	Samuel Barnett
+N19	Best Performance by a Leading Actor in a Play	2014	Nominated	Tonys	S17	Chris O'Dowd
+N20	Best Performance by a Leading Actor in a Play	2014	Nominated	Tonys	S18	Mark Rylance
+N21	Best Performance by a Leading Actor in a Play	2014	Nominated	Tonys	S1	Tony Shalhoub
+N22	Best Performance by a Leading Actress in a Play	2014	Won	Tonys	S19	Audra McDonald
+N23	Best Performance by a Leading Actress in a Play	2014	Nominated	Tonys	S4	Tyne Daly
+N24	Best Performance by a Leading Actress in a Play	2014	Nominated	Tonys	S10	LaTanya Richardson
+N25	Best Performance by a Leading Actress in a Play	2014	Nominated	Tonys	S12	Cherry Jones
+N26	Best Performance by a Leading Actress in a Play	2014	Nominated	Tonys	S20	Estelle Parsons
+N27	Best Performance by a Leading Actor in a Musical	2014	Won	Tonys	S14	Neil Patrick Harris
+N28	Best Performance by a Leading Actor in a Musical	2014	Nominated	Tonys	S15	Ramin Karimloo
+N29	Best Performance by a Leading Actor in a Musical	2014	Nominated	Tonys	S21	Andy Karl
+N30	Best Performance by a Leading Actor in a Musical	2014	Nominated	Tonys	S6	Jefferson Mays
+N31	Best Performance by a Leading Actor in a Musical	2014	Nominated	Tonys	S6	Bryce Pinkham
+N32	Best Performance by a Leading Actress in a Musical	2014	Won	Tonys	S9	Jessie Mueller
+N33	Best Performance by a Leading Actress in a Musical	2014	Nominated	Tonys	S22	Mary Bridget Davies
+N34	Best Performance by a Leading Actress in a Musical	2014	Nominated	Tonys	S16	Sutton Foster
+N35	Best Performance by a Leading Actress in a Musical	2014	Nominated	Tonys	S23	Idina Menzel
+N36	Best Performance by a Leading Actress in a Musical	2014	Nominated	Tonys	S24	Kelli O'Hara
+N37	Best Performance by a Featured Actor in a Play	2014	Won	Tonys	S13	Mark Rylance
+N38	Best Performance by a Featured Actor in a Play	2014	Nominated	Tonys	S3	Reed Birney
+N39	Best Performance by a Featured Actor in a Play	2014	Nominated	Tonys	S13	Paul Chahidi
+N40	Best Performance by a Featured Actor in a Play	2014	Nominated	Tonys	S13	Stephen Fry
+N41	Best Performance by a Featured Actor in a Play	2014	Nominated	Tonys	S12	Brian J. Smith
+N42	Best Performance by a Featured Actress in a Play	2014	Won	Tonys	S10	Sophie Okonedo
+N43	Best Performance by a Featured Actress in a Play	2014	Nominated	Tonys	S11	Sarah Greene
+N44	Best Performance by a Featured Actress in a Play	2014	Nominated	Tonys	S12	Celia Keenan-Bolger
+N45	Best Performance by a Featured Actress in a Play	2014	Nominated	Tonys	S10	Anika Noni Rose
+N46	Best Performance by a Featured Actress in a Play	2014	Nominated	Tonys	S3	Mare Winningham
+N47	Best Performance by a Featured Actor in a Musical	2014	Won	Tonys	S8	James Monroe Iglehart
+N48	Best Performance by a Featured Actor in a Musical	2014	Nominated	Tonys	S25	Danny Burstein
+N49	Best Performance by a Featured Actor in a Musical	2014	Nominated	Tonys	S26	Nick Cordero
+N50	Best Performance by a Featured Actor in a Musical	2014	Nominated	Tonys	S16	Joshua Henry
+N51	Best Performance by a Featured Actor in a Musical	2014	Nominated	Tonys	S9	Jarrod Spector
+N52	Best Performance by a Featured Actress in a Musical	2014	Won	Tonys	S14	Lena Hall
+N53	Best Performance by a Featured Actress in a Musical	2014	Nominated	Tonys	S25	Linda Emond
+N54	Best Performance by a Featured Actress in a Musical	2014	Nominated	Tonys	S9	Anika Larsen
+N55	Best Performance by a Featured Actress in a Musical	2014	Nominated	Tonys	S7	Adriane Lenox
+N56	Best Performance by a Featured Actress in a Musical	2014	Nominated	Tonys	S6	Lauren Worsham
+N57	Best Book of a Musical	2014	Won	Tonys	S6	Robert L. Freedman
+N58	Best Book of a Musical	2014	Nominated	Tonys	S8	Chad Beguelin
+N59	Best Book of a Musical	2014	Nominated	Tonys	S9	Douglas McGrath
+N60	Best Book of a Musical	2014	Nominated	Tonys	S26	Woody Allen
+N61	Best Original Score	2014	Won	Tonys	S24	Jason Robert Brown
+N62	Best Original Score	2014	Nominated	Tonys	S8	Alan Menken
+N63	Best Original Score	2014	Nominated	Tonys	S8	Howard Ashman
+N64	Best Original Score	2014	Nominated	Tonys	S8	Tim Rice
+N65	Best Original Score	2014	Nominated	Tonys	S8	Chad Beguelin
+N66	Best Original Score	2014	Nominated	Tonys	S6	Steven Lutvak
+N67	Best Original Score	2014	Nominated	Tonys	S6	Robert L. Freedman
+N68	Best Original Score	2014	Nominated	Tonys	S23	Tom Kitt
+N69	Best Original Score	2014	Nominated	Tonys	S23	Brian Yorkey
+G1	Record of the Year	2014	Won	Grammys	U1	NULL
+G2	Record of the Year	2014	Nominated	Grammys	U2	NULL
+G3	Record of the Year	2014	Nominated	Grammys	U3	NULL
+G4	Record of the Year	2014	Nominated	Grammys	U4	NULL
+G5	Record of the Year	2014	Nominated	Grammys	U5	NULL
+G6	Album of the Year	2014	Won	Grammys	U6	NULL
+G7	Album of the Year	2014	Nominated	Grammys	U7	NULL
+G8	Album of the Year	2014	Nominated	Grammys	U8	NULL
+G9	Album of the Year	2014	Nominated	Grammys	U9	NULL
+G10	Album of the Year	2014	Nominated	Grammys	U10	NULL
+G11	Song of the Year	2014	Won	Grammys	U1	NULL
+G12	Song of the Year	2014	Nominated	Grammys	U5	NULL
+G13	Song of the Year	2014	Nominated	Grammys	U3	NULL
+G14	Song of the Year	2014	Nominated	Grammys	U4	NULL
+G15	Song of the Year	2014	Nominated	Grammys	U11	NULL
+G16	Best New Artist	2014	Won	Grammys	P4	Sam Smith
+G17	Best New Artist	2014	Nominated	Grammys	P5	Iggy Azalea
+G18	Best New Artist	2014	Nominated	Grammys	P287	Bastille
+G19	Best New Artist	2014	Nominated	Grammys	P100	Brandy Clark
+G20	Best New Artist	2014	Nominated	Grammys	P288	HAIM
+G21	Best Pop Solo Performance	2014	Won	Grammys	U12	NULL
+G22	Best Pop Solo Performance	2014	Nominated	Grammys	U13	NULL
+G23	Best Pop Solo Performance	2014	Nominated	Grammys	U3	NULL
+G24	Best Pop Solo Performance	2014	Nominated	Grammys	U1	NULL
+G25	Best Pop Solo Performance	2014	Nominated	Grammys	U4	NULL
+G26	Best Pop Duo/Group Performance	2014	Won	Grammys	U14	NULL
+G27	Best Pop Duo/Group Performance	2014	Nominated	Grammys	U2	NULL
+G28	Best Pop Duo/Group Performance	2014	Nominated	Grammys	U15	NULL
+G29	Best Pop Duo/Group Performance	2014	Nominated	Grammys	U16	NULL
+G30	Best Pop Duo/Group Performance	2014	Nominated	Grammys	U17	NULL
+G31	Best Pop Vocal Album	2014	Won	Grammys	U9	NULL
+G32	Best Pop Vocal Album	2014	Nominated	Grammys	U18	NULL
+G33	Best Pop Vocal Album	2014	Nominated	Grammys	U19	NULL
+G34	Best Pop Vocal Album	2014	Nominated	Grammys	U20	NULL
+G35	Best Pop Vocal Album	2014	Nominated	Grammys	U21	NULL
+G36	Best Pop Vocal Album	2014	Nominated	Grammys	U8	NULL
+G37	Best Traditional Pop Vocal Album	2014	Won	Grammys	U22	NULL
+G38	Best Traditional Pop Vocal Album	2014	Nominated	Grammys	U23	NULL
+G39	Best Traditional Pop Vocal Album	2014	Nominated	Grammys	U24	NULL
+G40	Best Traditional Pop Vocal Album	2014	Nominated	Grammys	U25	NULL
+G41	Best Traditional Pop Vocal Album	2014	Nominated	Grammys	U26	NULL
+G42	Best Dance Recording	2014	Won	Grammys	U27	NULL
+G43	Best Dance Recording	2014	Nominated	Grammys	U28	NULL
+G44	Best Dance Recording	2014	Nominated	Grammys	U29	NULL
+G45	Best Dance Recording	2014	Nominated	Grammys	U30	NULL
+G46	Best Dance Recording	2014	Nominated	Grammys	U31	NULL
+G47	Best Dance/Electric Album	2014	Won	Grammys	U32	NULL
+G48	Best Dance/Electric Album	2014	Nominated	Grammys	U33	NULL
+G49	Best Dance/Electric Album	2014	Nominated	Grammys	U34	NULL
+G50	Best Dance/Electric Album	2014	Nominated	Grammys	U35	NULL
+G51	Best Dance/Electric Album	2014	Nominated	Grammys	U36	NULL
+G52	Best Contemporary Instrumental Album	2014	Won	Grammys	U37	NULL
+G53	Best Contemporary Instrumental Album	2014	Nominated	Grammys	U38	NULL
+G54	Best Contemporary Instrumental Album	2014	Nominated	Grammys	U39	NULL
+G55	Best Contemporary Instrumental Album	2014	Nominated	Grammys	U40	NULL
+G56	Best Contemporary Instrumental Album	2014	Nominated	Grammys	U41	NULL
+G57	Best Rock Performance	2014	Won	Grammys	U42	NULL
+G58	Best Rock Performance	2014	Nominated	Grammys	U43	NULL
+G59	Best Rock Performance	2014	Nominated	Grammys	U44	NULL
+G60	Best Rock Performance	2014	Nominated	Grammys	U45	NULL
+G61	Best Rock Performance	2014	Nominated	Grammys	U46	NULL
+G62	Best Metal Performance	2014	Won	Grammys	U47	NULL
+G63	Best Metal Performance	2014	Nominated	Grammys	U48	NULL
+G64	Best Metal Performance	2014	Nominated	Grammys	U49	NULL
+G65	Best Metal Performance	2014	Nominated	Grammys	U50	NULL
+G66	Best Metal Performance	2014	Nominated	Grammys	U51	NULL
+G67	Best Rock Song	2014	Won	Grammys	U52	NULL
+G68	Best Rock Song	2014	Nominated	Grammys	U45	NULL
+G69	Best Rock Song	2014	Nominated	Grammys	U53	NULL
+G70	Best Rock Song	2014	Nominated	Grammys	U43	NULL
+G71	Best Rock Song	2014	Nominated	Grammys	U42	NULL
+G72	Best Rock Album	2014	Won	Grammys	U6	NULL
+G73	Best Rock Album	2014	Nominated	Grammys	U54	NULL
+G74	Best Rock Album	2014	Nominated	Grammys	U55	NULL
+G75	Best Rock Album	2014	Nominated	Grammys	U56	NULL
+G76	Best Rock Album	2014	Nominated	Grammys	U57	NULL
+G77	Best Alternative Music Album	2014	Won	Grammys	U58	NULL
+G78	Best Alternative Music Album	2014	Nominated	Grammys	U59	NULL
+G79	Best Alternative Music Album	2014	Nominated	Grammys	U60	NULL
+G80	Best Alternative Music Album	2014	Nominated	Grammys	U61	NULL
+G81	Best Alternative Music Album	2014	Nominated	Grammys	U42	NULL
+G82	Best R&B Performance	2014	Won	Grammys	U62	NULL
+G83	Best R&B Performance	2014	Nominated	Grammys	U64	NULL
+G84	Best R&B Performance	2014	Nominated	Grammys	U95	NULL
+G85	Best R&B Performance	2014	Nominated	Grammys	U96	NULL
+G86	Best R&B Performance	2014	Nominated	Grammys	U63	NULL
+G87	Best Traditional R&B Performance	2014	Won	Grammys	U97	NULL
+G88	Best Traditional R&B Performance	2014	Nominated	Grammys	U98	NULL
+G89	Best Traditional R&B Performance	2014	Nominated	Grammys	U99	NULL
+G90	Best Traditional R&B Performance	2014	Nominated	Grammys	U100	NULL
+G91	Best Traditional R&B Performance	2014	Nominated	Grammys	U101	NULL
+G92	Best R&B Song	2014	Won	Grammys	U62	NULL
+G93	Best R&B Song	2014	Nominated	Grammys	U63	NULL
+G94	Best R&B Song	2014	Nominated	Grammys	U64	NULL
+G95	Best R&B Song	2014	Nominated	Grammys	U65	NULL
+G96	Best R&B Song	2014	Nominated	Grammys	U66	NULL
+G97	Best Urban Contemporary Album	2014	Won	Grammys	U10	NULL
+G98	Best Urban Contemporary Album	2014	Nominated	Grammys	U67	NULL
+G99	Best Urban Contemporary Album	2014	Nominated	Grammys	U7	NULL
+G100	Best Urban Contemporary Album	2014	Nominated	Grammys	U102	NULL
+G101	Best Urban Contemporary Album	2014	Nominated	Grammys	U68	NULL
+G102	Best R&B Album	2014	Won	Grammys	U69	NULL
+G103	Best R&B Album	2014	Nominated	Grammys	U70	NULL
+G104	Best R&B Album	2014	Nominated	Grammys	U71	NULL
+G105	Best R&B Album	2014	Nominated	Grammys	U72	NULL
+G106	Best R&B Album	2014	Nominated	Grammys	U73	NULL
+G107	Best Rap Performance	2014	Won	Grammys	U74	NULL
+G108	Best Rap Performance	2014	Nominated	Grammys	U103	NULL
+G109	Best Rap Performance	2014	Nominated	Grammys	U104	NULL
+G110	Best Rap Performance	2014	Nominated	Grammys	U105	NULL
+G111	Best Rap Performance	2014	Nominated	Grammys	U106	NULL
+G112	Best Rap/Sung Collaboration	2014	Won	Grammys	U107	NULL
+G113	Best Rap/Sung Collaboration	2014	Nominated	Grammys	U108	NULL
+G114	Best Rap/Sung Collaboration	2014	Nominated	Grammys	U109	NULL
+G115	Best Rap/Sung Collaboration	2014	Nominated	Grammys	U110	NULL
+G116	Best Rap/Sung Collaboration	2014	Nominated	Grammys	U76	NULL
+G117	Best Rap Song	2014	Won	Grammys	U74	NULL
+G118	Best Rap Song	2014	Nominated	Grammys	U75	NULL
+G119	Best Rap Song	2014	Nominated	Grammys	U76	NULL
+G120	Best Rap Song	2014	Nominated	Grammys	U77	NULL
+G121	Best Rap Song	2014	Nominated	Grammys	U78	NULL
+G122	Best Rap Album	2014	Won	Grammys	U79	NULL
+G123	Best Rap Album	2014	Nominated	Grammys	U80	NULL
+G124	Best Rap Album	2014	Nominated	Grammys	U81	NULL
+G125	Best Rap Album	2014	Nominated	Grammys	U82	NULL
+G126	Best Rap Album	2014	Nominated	Grammys	U83	NULL
+G127	Best Rap Album	2014	Nominated	Grammys	U84	NULL
+G128	Best Country Solo Performance	2014	Won	Grammys	U111	NULL
+G129	Best Country Solo Performance	2014	Nominated	Grammys	U88	NULL
+G130	Best Country Solo Performance	2014	Nominated	Grammys	U112	NULL
+G131	Best Country Solo Performance	2014	Nominated	Grammys	U87	NULL
+G132	Best Country Solo Performance	2014	Nominated	Grammys	U113	NULL
+G133	Best Country Duo/Group Performance	2014	Won	Grammys	U114	NULL
+G134	Best Country Duo/Group Performance	2014	Nominated	Grammys	U115	NULL
+G135	Best Country Duo/Group Performance	2014	Nominated	Grammys	U116	NULL
+G136	Best Country Duo/Group Performance	2014	Nominated	Grammys	U89	NULL
+G137	Best Country Duo/Group Performance	2014	Nominated	Grammys	U117	NULL
+G138	Best Country Song	2014	Won	Grammys	U85	NULL
+G139	Best Country Song	2014	Nominated	Grammys	U86	NULL
+G140	Best Country Song	2014	Nominated	Grammys	U87	NULL
+G141	Best Country Song	2014	Nominated	Grammys	U88	NULL
+G142	Best Country Song	2014	Nominated	Grammys	U89	NULL
+G143	Best Country Album	2014	Won	Grammys	U90	NULL
+G144	Best Country Album	2014	Nominated	Grammys	U91	NULL
+G145	Best Country Album	2014	Nominated	Grammys	U92	NULL
+G146	Best Country Album	2014	Nominated	Grammys	U93	NULL
+G147	Best Country Album	2014	Nominated	Grammys	U94	NULL
+O1	Best Picture	2015	Won	Oscars	M1	Alejandro G. Inarritu
+O2	Best Picture	2015	Won	Oscars	M1	John Lesher
+O3	Best Picture	2015	Won	Oscars	M1	James W. Skotchdopole
+O4	Best Picture	2015	Nominated	Oscars	M2	Clint Eastwood
+O5	Best Picture	2015	Nominated	Oscars	M2	Robert Lorenz
+O6	Best Picture	2015	Nominated	Oscars	M2	Andrew Lazar
+O7	Best Picture	2015	Nominated	Oscars	M2	Bradley Cooper
+O8	Best Picture	2015	Nominated	Oscars	M2	Peter Morgan
+O9	Best Picture	2015	Nominated	Oscars	M3	Richard Linklater
+O10	Best Picture	2015	Nominated	Oscars	M3	Cathleen Sutherland
+O11	Best Picture	2015	Nominated	Oscars	M4	Wes Anderson
+O12	Best Picture	2015	Nominated	Oscars	M4	Scott Rudin
+O13	Best Picture	2015	Nominated	Oscars	M4	Steven Rales
+O14	Best Picture	2015	Nominated	Oscars	M4	Jeremy Dawson
+O15	Best Picture	2015	Nominated	Oscars	M5	Nora Grossman
+O16	Best Picture	2015	Nominated	Oscars	M5	Ida Ostrowsky
+O17	Best Picture	2015	Nominated	Oscars	M5	Teddy Schwarzman
+O18	Best Picture	2015	Nominated	Oscars	M6	Christian Colson
+O19	Best Picture	2015	Nominated	Oscars	M6	Oprah Winfrey
+O20	Best Picture	2015	Nominated	Oscars	M6	Dede Gardner
+O21	Best Picture	2015	Nominated	Oscars	M6	Jeremy Kleiner
+O22	Best Picture	2015	Nominated	Oscars	M7	Tim Bevan
+O23	Best Picture	2015	Nominated	Oscars	M7	Eric Fellner
+O24	Best Picture	2015	Nominated	Oscars	M7	Lisa Bruce
+O25	Best Picture	2015	Nominated	Oscars	M7	Anthony McCarten
+O26	Best Picture	2015	Nominated	Oscars	M8	Jason Blum
+O27	Best Directing	2015	Won	Oscars	M1	Alejandro G. Inarritu
+O28	Best Directing	2015	Nominated	Oscars	M3	Richard Linklater
+O29	Best Directing	2015	Nominated	Oscars	M9	Bennett Miller
+O30	Best Directing	2015	Nominated	Oscars	M4	Wes Anderson
+O31	Best Directing	2015	Nominated	Oscars	M5	Morten Tyldum
+O32	Best Actor	2015	Won	Oscars	M7	Eddie Redmayne
+O33	Best Actor	2015	Nominated	Oscars	M9	Steve Carell
+O34	Best Actor	2015	Nominated	Oscars	M2	Bradley Cooper
+O35	Best Actor	2015	Nominated	Oscars	M5	Benedict Cumberbatch
+O36	Best Actor	2015	Nominated	Oscars	M1	Michael Keaton
+O37	Best Actress	2015	Won	Oscars	M10	Julianne Moore
+O38	Best Actress	2015	Nominated	Oscars	M11	Marion Cotillard
+O39	Best Actress	2015	Nominated	Oscars	M7	Felicity Jones
+O40	Best Actress	2015	Nominated	Oscars	M12	Rosamund Pike
+O41	Best Actress	2015	Nominated	Oscars	M13	Reese Witherspoon
+O42	Best Supporting Actor	2015	Won	Oscars	M8	J.K. Simmons
+O43	Best Supporting Actor	2015	Nominated	Oscars	M14	Robert Duvall
+O44	Best Supporting Actor	2015	Nominated	Oscars	M3	Ethan Hawke
+O45	Best Supporting Actor	2015	Nominated	Oscars	M1	Edward Norton
+O46	Best Supporting Actor	2015	Nominated	Oscars	M9	Mark Ruffalo
+O47	Best Supporting Actress	2015	Won	Oscars	M3	Patricia Arquette
+O48	Best Supporting Actress	2015	Nominated	Oscars	M13	Laura Dern
+O49	Best Supporting Actress	2015	Nominated	Oscars	M5	Keira Knightley
+O50	Best Supporting Actress	2015	Nominated	Oscars	M1	Emma Stone
+O51	Best Supporting Actress	2015	Nominated	Oscars	M15	Meryl Streep
+O52	Best Original Screenplay	2015	Won	Oscars	M1	Alejandro G. Inarritu
+O53	Best Original Screenplay	2015	Won	Oscars	M1	Nicolas Giacobone
+O54	Best Original Screenplay	2015	Won	Oscars	M1	Alexander Dinelaris, Jr.
+O55	Best Original Screenplay	2015	Won	Oscars	M1	Armando Bo
+O56	Best Original Screenplay	2015	Nominated	Oscars	M3	Richard Linklater
+O57	Best Original Screenplay	2015	Nominated	Oscars	M9	E. Max Frye
+O58	Best Original Screenplay	2015	Nominated	Oscars	M9	Dan Futterman
+O59	Best Original Screenplay	2015	Nominated	Oscars	M4	Wes Anderson
+O60	Best Original Screenplay	2015	Nominated	Oscars	M4	Hugo Guinness
+O61	Best Original Screenplay	2015	Nominated	Oscars	M16	Dan Gilroy
+O62	Best Adapted Screenplay	2015	Won	Oscars	M5	Graham Moore
+O63	Best Adapted Screenplay	2015	Nominated	Oscars	M2	Jason Hall
+O64	Best Adapted Screenplay	2015	Nominated	Oscars	M17	Paul Thomas Anderson
+O65	Best Adapted Screenplay	2015	Nominated	Oscars	M7	Anthony McCarten
+O66	Best Adapted Screenplay	2015	Nominated	Oscars	M8	Damien Chazelle
+O67	Best Animated Feature Film	2015	Won	Oscars	M18	Don Hall
+O68	Best Animated Feature Film	2015	Won	Oscars	M18	Chris Williams
+O69	Best Animated Feature Film	2015	Won	Oscars	M18	Roy Conli
+O70	Best Animated Feature Film	2015	Nominated	Oscars	M19	Anthony Stacchi
+O71	Best Animated Feature Film	2015	Nominated	Oscars	M19	Graham Annable
+O72	Best Animated Feature Film	2015	Nominated	Oscars	M19	Travis Knight
+O73	Best Animated Feature Film	2015	Nominated	Oscars	M20	Dean DeBlois
+O74	Best Animated Feature Film	2015	Nominated	Oscars	M20	Bonnie Arnold
+O75	Best Animated Feature Film	2015	Nominated	Oscars	M21	Tomm Moore
+O76	Best Animated Feature Film	2015	Nominated	Oscars	M22	Isao Takahata
+O77	Best Foreign Language Film	2015	Won	Oscars	M23	Pawl Pawlikowski
+O78	Best Foreign Language Film	2015	Nominated	Oscars	M24	Andrey Zvyagintsev
+O79	Best Foreign Language Film	2015	Nominated	Oscars	M25	Zaza Urushadze
+O80	Best Foreign Language Film	2015	Nominated	Oscars	M26	Abderrahmane Sissako
+O81	Best Foreign Language Film	2015	Nominated	Oscars	M27	Damian Szifron
+O82	Best Original Song	2015	Won	Oscars	M6	John Legend
+O83	Best Original Song	2015	Won	Oscars	M6	Common
+O84	Best Original Song	2015	Nominated	Oscars	M74	Shawn Patterson
+O85	Best Original Song	2015	Nominated	Oscars	M75	Diane Warren
+O86	Best Original Song	2015	Nominated	Oscars	M76	Glen Campbell
+O87	Best Original Song	2015	Nominated	Oscars	M77	Gregg Alexander
+O88	Best Original Song	2015	Nominated	Oscars	M77	Danielle Brisebois
